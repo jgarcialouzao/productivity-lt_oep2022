@@ -1,5 +1,8 @@
 This readme explains the logical sequence to replicate the main results in "Productivity-Enhancing Reallocation during the Great Recession: Evidence from Lithuania" by Jose Garcia-Louzao and Linas Tarasonis
 
+The primary data used in the analysis are confidential and therefore are not provided.
+The data are kept at the facilities of the Bank of Lithuania. Researchers can apply for the visit program and obtain access to the dataset (https://www.lb.lt/en/ca-visiting-researcherprogramme).
+
 The full set of results can be obtained running the "RoadMap" program. This program includes the folliwing sub-programs:
 
 do_firmdata extracts data from excel files and transform it in Stata files
